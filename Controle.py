@@ -195,7 +195,3 @@ t2 = time.time()
 print("%.8f" % (t2 - t1))
 print(minFlot)
 print(arreteEnleveMin)
-
-# Écrire le nouveau fichier de résultat
-
-
